@@ -1,6 +1,6 @@
 module github.com/opendatahub-io/opendatahub-operator/v2
 
-go 1.22.0
+go 1.24
 
 require (
 	github.com/blang/semver/v4 v4.0.0
@@ -62,7 +62,7 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
-	github.com/itchyny/timefmt-go v0.1.6 // indirect
+	github.com/itchyny/timefmt-go v0.1.7 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
