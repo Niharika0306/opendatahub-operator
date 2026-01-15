@@ -20,7 +20,7 @@ require (
 	github.com/prometheus/client_golang v1.20.5
 	github.com/rs/xid v1.6.0
 	github.com/spf13/afero v1.10.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	go.uber.org/zap v1.26.0
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56
 	gopkg.in/yaml.v2 v2.4.0
@@ -78,7 +78,7 @@ require (
 	github.com/prometheus/common v0.55.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/rhobs/obo-prometheus-operator/pkg/apis/monitoring v0.61.1-rhobs1 // indirect
-	github.com/sirupsen/logrus v1.9.2 // indirect
+	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/xlab/treeprint v1.2.0 // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
