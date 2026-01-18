@@ -1,6 +1,6 @@
 module github.com/opendatahub-io/opendatahub-operator/v2
 
-go 1.22.0
+go 1.23
 
 require (
 	github.com/blang/semver/v4 v4.0.0
@@ -31,7 +31,7 @@ require (
 	k8s.io/client-go v11.0.0+incompatible
 	k8s.io/klog/v2 v2.110.1
 	k8s.io/kube-aggregator v0.28.3
-	k8s.io/utils v0.0.0-20240711033017-18e509b52bc8
+	k8s.io/utils v0.0.0-20260108192941-914a6e750570
 	sigs.k8s.io/controller-runtime v0.17.5
 	sigs.k8s.io/kustomize/api v0.13.4
 	sigs.k8s.io/kustomize/kyaml v0.16.0
